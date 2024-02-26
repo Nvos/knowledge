@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Workflow.md",
-                "mode": "source",
+                "file": "CSS/Viewport units.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Workflow.md",
+                "file": "CSS/Viewport units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Workflow.md",
+                "file": "CSS/Viewport units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Workflow.md"
+                "file": "CSS/Viewport units.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "61472b60aa1f0408",
   "lastOpenFiles": [
+    "CSS/color-mix().md",
+    "CSS/Viewport units.md",
+    "CSS/OKLCH.md",
+    "Go/Compile time checks.md",
+    "CSS",
+    "Untitled.md",
+    "Git/Workflow.md",
+    "Go",
     "Git/Common operations.md",
     "Solidjs/Best practices.md",
     "React/Best practices.md",
     "React/Optimization.md",
     "React/Libraries.md",
-    "Git/Workflow.md",
     "Solidjs",
     "Welcome.md",
     "templates/now.md",
@@ -169,7 +176,6 @@
     "Frontend/Tools/Libraries.md",
     "Frontend/React/Libraries.md",
     "Frontend/React/Optimization.md",
-    "Untitled.md",
     "Frontend/React/Best practices.md",
     "Frontend/Typescript",
     "Frontend/Tools",

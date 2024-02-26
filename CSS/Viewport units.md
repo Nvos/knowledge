@@ -1,0 +1,3 @@
+Normally to set height of element to match window size `vw` and `vh` was used but it was problematic due to height shifts which were result of browser such as keyboard appearing or toolbar appearing/hiding (noticeable especially on mobile browsers).
+
+In order to solve this problem dynamic view port unit - `dvh` was introduced which will automatically accommodate browser elements which should result in content resize. 
