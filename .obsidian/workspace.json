@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidjs/Best practices.md",
+                "file": "Git/Workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidjs/Best practices.md",
+                "file": "Git/Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidjs/Best practices.md",
+                "file": "Git/Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidjs/Best practices.md"
+                "file": "Git/Workflow.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "61472b60aa1f0408",
   "lastOpenFiles": [
+    "Git/Common operations.md",
+    "Solidjs/Best practices.md",
     "React/Best practices.md",
     "React/Optimization.md",
     "React/Libraries.md",
-    "Solidjs/Best practices.md",
     "Git/Workflow.md",
     "Solidjs",
     "Welcome.md",
     "templates/now.md",
     "Git/Configuration.md",
-    "Git/Common operations.md",
     "Typescript/Key extraction.md",
     "Typescript/Template literal.md",
     "Typescript/Type narrowing.md",
