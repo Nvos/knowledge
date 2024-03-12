@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Viewport units.md",
-                "mode": "preview",
+                "file": "Git/Workflow.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Viewport units.md",
+                "file": "Git/Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Viewport units.md",
+                "file": "Git/Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Viewport units.md"
+                "file": "Git/Workflow.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "61472b60aa1f0408",
   "lastOpenFiles": [
-    "CSS/color-mix().md",
+    "Git/Configuration.md",
+    "Git/Common operations.md",
+    "Documentation/Architecture decision record.md",
     "CSS/Viewport units.md",
+    "Documentation",
+    "CSS/color-mix().md",
     "CSS/OKLCH.md",
     "Go/Compile time checks.md",
     "CSS",
     "Untitled.md",
     "Git/Workflow.md",
     "Go",
-    "Git/Common operations.md",
     "Solidjs/Best practices.md",
     "React/Best practices.md",
     "React/Optimization.md",
@@ -164,7 +167,6 @@
     "Solidjs",
     "Welcome.md",
     "templates/now.md",
-    "Git/Configuration.md",
     "Typescript/Key extraction.md",
     "Typescript/Template literal.md",
     "Typescript/Type narrowing.md",
@@ -180,7 +182,6 @@
     "Frontend/Typescript",
     "Frontend/Tools",
     "Frontend",
-    "().md",
     "templates",
     "Frontend/React"
   ]
