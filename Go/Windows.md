@@ -1,0 +1,2 @@
+# Windows defender build cache issues
+Some tools such as `mage` use code as template in order to generate new binaries resulting in high likelihood for those to be marked by windows defender, default path is not possible to add as exclusion, it looks like so: `{USER_HOME_DIR}\AppData\Local\Temp\go-build1002945170` thus if there are problems it is good idea to set it to predictable directory which can be added as exclusion via `GOTMPDIR`
