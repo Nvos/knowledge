@@ -1,0 +1,2 @@
+Starting from go `1.21` it is easy to switch version via `go env -w GOTOOLCHAIN=go1.22.1` additionally depending on version provided in `go.mod` it will automatically be downloaded on any command execution, bear in mind that it is necessary to provide minor version as well
+- Source - https://go.dev/doc/toolchain
